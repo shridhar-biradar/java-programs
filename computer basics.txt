@@ -1,0 +1,25 @@
+1.what is computer?
+  A computer is a machine that accepts information and processes it in accordance with a programme,
+piece of software or set of instructions that specify how the information should be handled.
+
+2.what is ram?
+  randam access memory is a computer's short-term memory,where the data that the processor is currently
+using is stored.
+  
+3.where is data stored in a computer?
+  Hard Disk Drives 
+
+4.what is that input device used to type text and numbers on a document in ccomputer system?
+  The Keyboard
+
+5.what are the output devices?
+  Monitor,Printer,Speaker 
+
+6.which is the input device that allows a user to move the cursor or pointer on the screen?
+   Mouse
+
+7.which language is directly understood by the computer without a translation program?
+  Machine Language
+
+8.what are input devices?
+   Keyboard,Mouse and touch screen
